@@ -1,3 +1,22 @@
+Lets Twalk about it:
+
+This is virtual machine for testing out Twalk. These configs will be used to make a production ready system. 
+
+##Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+
+##Having problems?
+
+1. Create a detailed issue.
+2. Sit back, relax, apathy's back in style
+
+############ marked for removal ###########
+
 # Vagrant Ubuntu 14.04 Puppet Nginx
 
 Simple example showing how to provision a Ubuntu 14.04 Nginx web server VM using Vagrant and Puppet.
