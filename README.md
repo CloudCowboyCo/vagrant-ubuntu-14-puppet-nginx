@@ -15,7 +15,10 @@ This is virtual machine for testing out Twalk. These configs will be used to mak
 1. Create a detailed issue.
 2. Sit back, relax, apathy's back in style
 
-############ marked for removal ###########
+############ Next Steps
+https://gorails.com/setup/ubuntu/14.04
+
+############ marked for removal
 
 # Vagrant Ubuntu 14.04 Puppet Nginx
 
